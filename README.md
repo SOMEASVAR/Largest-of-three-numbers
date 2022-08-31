@@ -60,4 +60,4 @@ namespace condition
 ![output](./OUT.jpg)
 
 ## Result:
-Thus the C# program to find the largest of three numbers is executed successfully
+Thus the C# program to find the largest of three numbers is executed successfully.
